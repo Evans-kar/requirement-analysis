@@ -1,2 +1,2 @@
-# requirement-analysis
-project for prodev alx 
+# Requirement Analysis in Software Development
+project for prodev alx to help understand the software development lifecycle moreso the requirement gathering part which is an essential stage in sdlc as here the developers interact with the stakeholders to gather more information on their requirements and get back to them with prototypes of the project to test if the system fits the users functional and non functional requirements. 
